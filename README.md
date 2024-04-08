@@ -13,12 +13,12 @@
 - Creating custom jQuery widgets
 - Google Page Speed optimization
 - Time estimation
-- Writing development plan
+- Writing a development plan
 - Code review
 - Creating workload
 - Managing FE team
 
-### Business Developer / Technical Lead in local Ukranian companies
+### Business Developer / Technical Lead in local Ukrainian companies
 
 ### Self-employed, Ukraine, Kiev (Aug 2017- Feb 2021)
 
@@ -39,7 +39,7 @@
 
 ### Luxinten, Ukraine (Dec 2014 - Mar 2016)
 
-- Build Front-end developing process in company
+- Build a Front-end development process in a company
 - Time estimation
 - Hiring developers
 - Developing Magento theme from scratch
@@ -50,7 +50,7 @@
 
 ### Rocketweb SA, Remote (Sep 2014 - Dec 2014)
 
-- Developing Magento theme
+- Developing a Magento theme
 - Support Magento Stores
 
 ### Magento Front-end Developer
@@ -64,7 +64,7 @@
 
 ### Asimmetri, Ukraine (Sep 2010 - Aug 2011)
 
-- Organize developing process in company
+- Organize developing processes in company
 - Time estimation
 - Risk Management
 - Project Management
@@ -75,7 +75,7 @@
 ### Forbiz, Ukraine (Sep 2009 - Aug 2010)
 
 - Front-end Developing
-- SEO optimisation
+- SEO optimization
 
 ## PREVIOUS EDUCATION
 
