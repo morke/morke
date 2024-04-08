@@ -2,11 +2,9 @@
 
 ## EMPLOYMENT HISTORY
 
-### Magento 2 Front-end Developer
+### Overdose, New Zealand (Feb 2021 - now ) - Magento 2 Front-end Developer
 
-### Overdose, New Zealand (Feb 2021 - now )
-
-- Implementing SPA on vue.js / nuxt / Hygraph
+- Implementing SPA on vue.js / Nuxt / Hygraph
 - Developing Magento 2 theme from scratch
 - Creating custom UI Components
 - Refactor and create new components on checkout
@@ -18,26 +16,20 @@
 - Creating workload
 - Managing FE team
 
-### Business Developer / Technical Lead in local Ukrainian companies
-
-### Self-employed, Ukraine, Kiev (Aug 2017- Feb 2021)
+### Self-employed, Ukraine, Kyiv (Aug 2017- Feb 2021) - Business Developer / Technical Lead in local Ukrainian companies
 
 - Develop a business process
 - Managing
 - Hiring people
 - Сonsultation
 
-### Magento 2 Front-end Developer / Team Lead
-
-### StudioRaz, Tel Aviv, Israel (Mar 2016- Aug 2017)
+### StudioRaz, Tel Aviv, Israel (Mar 2016- Aug 2017) - Magento 2 Front-end Developer / Team Lead
 
 - Developing Magento 2 theme from scratch
 - Migration from Magento 1 to Magento 2 front-end part
 - Time estimation
 
-### Co-Founder & Lead Magento Front-end Developer
-
-### Luxinten, Ukraine (Dec 2014 - Mar 2016)
+### Luxinten, Ukraine (Dec 2014 - Mar 2016) - Co-Founder & Lead Magento Front-end Developer
 
 - Build a Front-end development process in a company
 - Time estimation
@@ -46,33 +38,25 @@
 - Train Front-end developers
 - Interviewing
 
-### Magento Front-end Developer
-
-### Rocketweb SA, Remote (Sep 2014 - Dec 2014)
+### Rocketweb SA, Remote (Sep 2014 - Dec 2014) - Magento Front-end Developer
 
 - Developing a Magento theme
 - Support Magento Stores
 
-### Magento Front-end Developer
-
-### Goodahead, Ukraine (Aug 2011 - Jun 2014)
+### Goodahead, Ukraine (Aug 2011 - Jun 2014) - Magento Front-end Developer
 
 - Developing Magento theme from scratch
 - Time estimation
 
-### Co-Founder, Project Manager
+### Asimmetri, Ukraine (Sep 2010 - Aug 2011) - Co-Founder, Project Manager
 
-### Asimmetri, Ukraine (Sep 2010 - Aug 2011)
-
-- Organize developing processes in company
+- Organize developing processes in a company
 - Time estimation
 - Risk Management
 - Project Management
 - Interviewing
 
-### Front-end Developer
-
-### Forbiz, Ukraine (Sep 2009 - Aug 2010)
+### Forbiz, Ukraine (Sep 2009 - Aug 2010) - Front-end Developer
 
 - Front-end Developing
 - SEO optimization
